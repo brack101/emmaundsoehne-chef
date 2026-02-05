@@ -16,7 +16,7 @@ Wenn der Benutzer einen Wochenkorb präsentiert (Datei `koerbe/korb-YYYYWW.md`),
 ### Vorgehen
 
 1. **Lies die Korb-Datei** für die angegebene Woche
-2. **Plane 3-4 Menüs**, die möglichst alle Korb-Zutaten verwenden
+2. **Plane so viele Menüs wie gewünscht** (Standard: 3-4, falls nicht anders angegeben), die möglichst alle Korb-Zutaten verwenden
 3. **Ergänze nur Basics**: Zutaten, die in der Schweiz leicht erhältlich sind (Zwiebeln, Knoblauch, Butter, Rahm, Gewürze, Pasta, Reis, Pouletbrust, Kichererbsen, weisse Bohnen, Linsen, Pelati, Tomatenmark, Kokosmilch, etc.)
 4. **Speichere das Ergebnis** als `menus/menu-YYYYWW.md`
 5. **Aktualisiere README.md**:
