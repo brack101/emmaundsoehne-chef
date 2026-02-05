@@ -17,7 +17,7 @@ Wenn der Benutzer einen Wochenkorb präsentiert (Datei `koerbe/korb-YYYYWW.md`),
 
 1. **Lies die Korb-Datei** für die angegebene Woche
 2. **Plane so viele Menüs wie gewünscht** (Standard: 3-4, falls nicht anders angegeben), die möglichst alle Korb-Zutaten verwenden
-3. **Ergänze mexikanische Basics**: Tortillas, schwarze Bohnen, Kidneybohnen, Kichererbsen, Mais, Jalapeños, Kreuzkümmel, Chili, Limetten, Koriander, Sauerrahm, Käse, Avocados, Pelati, Tomatenmark, Zwiebeln, Knoblauch, Pouletbrust (alles in CH-Supermärkten erhältlich)
+3. **Ergänze mexikanische Basics**: Tortillas, Nachos/Tortilla-Chips, schwarze Bohnen, Kidneybohnen, Refried Beans, Kichererbsen, Mais, Langkornreis, Jalapeños, Chipotle (Dose/Paste), Kreuzkümmel, Chili, Paprika (geräuchert), Oregano, Cayennepfeffer, Limetten, Koriander, Frühlingszwiebeln, Peperoni, Eisbergsalat, Sauerrahm, Käse, Avocados, Pelati, Tomatenmark, Salsa, Hot Sauce, Zwiebeln, Knoblauch, Pouletbrust, Hackfleisch (alles in CH-Supermärkten erhältlich)
 4. **Speichere das Ergebnis** als `menus/menu-mexico-YYYYWW.md`
 5. **Aktualisiere README.md**:
    - Füge neuen Eintrag **zuoberst** unter "Aktuelle Menüs" hinzu: `- [KW XX/YYYY México](menus/menu-mexico-YYYYWW.md) - Menütitel1, Menütitel2, ...`
