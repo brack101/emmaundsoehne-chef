@@ -1,4 +1,4 @@
-# emmaundsoehne-chef
+# Emma & Söhne - Chef
 
 Wöchentliche Menüvorschläge basierend auf dem Gemüse- und Früchtekorb von [Emma und Söhne](https://emmaundsoehne.ch).
 
