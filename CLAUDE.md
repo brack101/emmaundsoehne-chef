@@ -11,6 +11,7 @@ Verwende je nach gewünschtem Küchenstil den passenden Chef:
 | **Schweizer/Europäisch** | [chefs/CHEF-SCHWEIZ.md](chefs/CHEF-SCHWEIZ.md) | "Erstelle Menüs für KW XX" |
 | **Asiatisch** | [chefs/CHEF-ASIA.md](chefs/CHEF-ASIA.md) | "Erstelle asiatische Menüs für KW XX" |
 | **Mexikanisch** | [chefs/CHEF-MEXICO.md](chefs/CHEF-MEXICO.md) | "Erstelle mexikanische Menüs für KW XX" |
+| **Meal Prep** | [chefs/CHEF-MEALPREP.md](chefs/CHEF-MEALPREP.md) | "Erstelle Meal Prep für KW XX" |
 
 ## Projektstruktur
 
