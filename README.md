@@ -4,6 +4,7 @@ Wöchentliche Menüvorschläge basierend auf dem Gemüse- und Früchtekorb von [
 
 ## Aktuelle Menüs
 
+- [KW 07/2026 Mealprep](menus/mealprep-202607.md) - Vorbereitung für 9 Gerichte aus 3 Menüs
 - [KW 07/2026 México](menus/menu-mexico-202607.md) - Wurzelgemüse-Tacos, Rotkohlsalat, Chipotle-Suppe, Lauch-Quesadillas, Zimtbirnen
 - [KW 07/2026 Asia](menus/menu-asia-202607.md) - Chinakohl-Wok, Rotkohl-Pancake, Schwarzwurzel-Kinpira, Birnen-Kokossuppe
 - [KW 07/2026](menus/menu-202607.md) - Schwarzwurzel-Suppe, Geschmorter Rotkohl, Chinakohl-Gratin, Warmer Nüsslisalat
