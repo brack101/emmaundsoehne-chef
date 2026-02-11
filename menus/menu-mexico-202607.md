@@ -1,6 +1,6 @@
 # Menüplan México Woche 07/2026
 
-Basierend auf dem Korb mit: Catalonga, Nüsslisalat, Kabis rot, Lauch, Sellerie Knolle, Schwarzwurzeln, Chinakohl, Peterliwurzeln, Kartoffeln mehlig kochende, Äpfel, Birnen
+Basierend auf dem Korb mit: Winterportulak, Nüsslisalat, Kabis rot, Lauch, Sellerie Knolle, Schwarzwurzeln, Chinakohl, Peterliwurzeln, Kartoffeln mehlig kochende, Äpfel, Birnen
 
 ---
 
@@ -143,7 +143,7 @@ Basierend auf dem Korb mit: Catalonga, Nüsslisalat, Kabis rot, Lauch, Sellerie 
 **Aus dem Korb:**
 - 2 Stangen Lauch
 - 1 Apfel
-- Catalonga (ca. 100g, als Beilage)
+- 100g Winterportulak (als Beilage)
 
 **Zusätzlich benötigt:**
 - 4 grosse Weizentortillas
@@ -154,7 +154,7 @@ Basierend auf dem Korb mit: Catalonga, Nüsslisalat, Kabis rot, Lauch, Sellerie 
 - Sauerrahm
 - Salsa oder Hot Sauce
 
-**Für den Catalonga-Salat:**
+**Für den Winterportulak-Salat:**
 - 2 EL Olivenöl
 - 1 EL Limettensaft
 - Salz, Pfeffer
@@ -166,12 +166,12 @@ Basierend auf dem Korb mit: Catalonga, Nüsslisalat, Kabis rot, Lauch, Sellerie 
 3. Lauch mit Kreuzkümmel und Paprika würzen.
 4. Je eine Tortilla mit Käse bestreuen, Lauch und Apfelscheiben darauf verteilen, mit zweiter Tortilla bedecken.
 5. In einer trockenen Pfanne bei mittlerer Hitze von beiden Seiten goldbraun braten, bis der Käse schmilzt.
-6. Catalonga in mundgerechte Stücke zupfen, mit Öl und Limettensaft anmachen.
-7. Quesadillas vierteln und mit Catalonga-Salat, Sauerrahm und Salsa servieren.
+6. Winterportulak waschen, mit Öl und Limettensaft anmachen.
+7. Quesadillas vierteln und mit Winterportulak-Salat, Sauerrahm und Salsa servieren.
 
 ### Tipps vom Chef
 
-> Die Kombination von süssem, karamellisiertem Lauch mit säuerlichem Apfel und schmelzendem Käse ist ein Traum. Der bittere Catalonga-Salat dazu bringt die perfekte Balance!
+> Die Kombination von süssem, karamellisiertem Lauch mit säuerlichem Apfel und schmelzendem Käse ist ein Traum. Der nussige Winterportulak-Salat dazu bringt frische Leichtigkeit!
 
 ---
 
@@ -216,7 +216,7 @@ Basierend auf dem Korb mit: Catalonga, Nüsslisalat, Kabis rot, Lauch, Sellerie 
 
 | Zutat | Verwendung |
 |-------|------------|
-| Catalonga | Menü 4 (Salat-Beilage) |
+| Winterportulak | Menü 4 (Salat-Beilage) |
 | Nüsslisalat | Menü 2 (Garnierung) |
 | Kabis rot | Menü 2 (Rotkohlsalat) |
 | Lauch | Menü 3 (Suppe), Menü 4 (Quesadillas) |

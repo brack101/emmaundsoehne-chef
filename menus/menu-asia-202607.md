@@ -1,6 +1,6 @@
 # Menüplan Asia Woche 07/2026
 
-Basierend auf dem Korb mit: Catalonga, Nüsslisalat, Kabis rot, Lauch, Sellerie Knolle, Schwarzwurzeln, Chinakohl, Peterliwurzeln, Kartoffeln mehlig kochende, Äpfel, Birnen
+Basierend auf dem Korb mit: Winterportulak, Nüsslisalat, Kabis rot, Lauch, Sellerie Knolle, Schwarzwurzeln, Chinakohl, Peterliwurzeln, Kartoffeln mehlig kochende, Äpfel, Birnen
 
 ---
 
@@ -175,7 +175,7 @@ Basierend auf dem Korb mit: Catalonga, Nüsslisalat, Kabis rot, Lauch, Sellerie 
 
 | Zutat | Verwendung |
 |-------|------------|
-| Catalonga | - |
+| Winterportulak | - |
 | Nüsslisalat | - |
 | Kabis rot | Menü 2 (Pancake) |
 | Lauch | Menü 1 (Wok), Menü 2 (Pancake), Menü 3 (Kinpira) |
@@ -187,4 +187,4 @@ Basierend auf dem Korb mit: Catalonga, Nüsslisalat, Kabis rot, Lauch, Sellerie 
 | Äpfel | Menü 4 (Suppe) |
 | Birnen | Menü 4 (Suppe) |
 
-**Hinweis:** Catalonga und Nüsslisalat eignen sich weniger für die asiatische Küche – diese können als frischer Beilagensalat mit Sesamdressing serviert werden.
+**Hinweis:** Winterportulak und Nüsslisalat eignen sich weniger für die asiatische Küche – diese können als frischer Beilagensalat mit Sesamdressing serviert werden.
