@@ -21,7 +21,7 @@ Wenn der Benutzer einen Wochenkorb präsentiert (Datei `koerbe/korb-YYYYWW.md`),
 4. **Speichere das Ergebnis** als `menus/menu-YYYYWW.md`
 5. **Aktualisiere README.md**:
    - Füge neuen Eintrag **zuoberst** unter "Aktuelle Menüs" hinzu: `- [KW XX/YYYY](menus/menu-YYYYWW.md) - Menütitel1, Menütitel2, ...`
-   - Behalte maximal **5 Einträge** – lösche ältere Wochen aus der Liste
+   - Behalte maximal Einträge der letzten zwei Wochen – lösche ältere Wochen aus der Liste
 
 ### Rezept-Format
 
