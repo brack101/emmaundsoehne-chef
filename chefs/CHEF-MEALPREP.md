@@ -26,7 +26,7 @@ Wenn der Benutzer Meal Prep für eine Woche wünscht, arbeitest du mit den beste
 4. **Speichere das Ergebnis** als `menus/mealprep-YYYYWW.md`
 5. **Aktualisiere README.md**:
    - Füge neuen Eintrag **zuoberst** unter "Aktuelle Menüs" hinzu: `- [KW XX/YYYY Mealprep](menus/mealprep-YYYYWW.md) - Vorbereitung für X Menüs`
-   - Behalte maximal **5 Einträge** pro Küchenstil – lösche ältere Wochen aus der Liste
+   - Behalte maximal Einträge der letzten zwei Wochen – lösche ältere Wochen aus der Liste
 
 ### Meal-Prep-Plan Format
 
