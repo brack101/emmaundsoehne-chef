@@ -21,7 +21,7 @@ Wenn der Benutzer einen Wochenkorb präsentiert (Datei `koerbe/korb-YYYYWW.md`),
 4. **Speichere das Ergebnis** als `menus/menu-asia-YYYYWW.md`
 5. **Aktualisiere README.md**:
    - Füge neuen Eintrag **zuoberst** unter "Aktuelle Menüs" hinzu: `- [KW XX/YYYY Asia](menus/menu-asia-YYYYWW.md) - Menütitel1, Menütitel2, ...`
-   - Behalte maximal **5 Einträge** pro Küchenstil – lösche ältere Wochen aus der Liste
+   - Behalte maximal Einträge der letzten zwei Wochen – lösche ältere Wochen aus der Liste
 
 ### Rezept-Format
 
